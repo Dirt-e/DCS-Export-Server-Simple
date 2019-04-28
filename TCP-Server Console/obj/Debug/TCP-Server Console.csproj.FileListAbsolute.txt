@@ -1,0 +1,21 @@
+\\Mac\Home\Desktop\OneDrive\Frank - PC\6DOF\Programmieren\Projects\TCP-Server Console\TCP-Server Console\bin\Debug\TCP-Server Console.exe.config
+\\Mac\Home\Desktop\OneDrive\Frank - PC\6DOF\Programmieren\Projects\TCP-Server Console\TCP-Server Console\bin\Debug\TCP-Server Console.exe
+\\Mac\Home\Desktop\OneDrive\Frank - PC\6DOF\Programmieren\Projects\TCP-Server Console\TCP-Server Console\bin\Debug\TCP-Server Console.pdb
+\\Mac\Home\Desktop\OneDrive\Frank - PC\6DOF\Programmieren\Projects\TCP-Server Console\TCP-Server Console\obj\Debug\TCP-Server Console.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\OneDrive\Frank - PC\6DOF\Programmieren\Projects\TCP-Server Console\TCP-Server Console\obj\Debug\TCP-Server Console.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\OneDrive\Frank - PC\6DOF\Programmieren\Projects\TCP-Server Console\TCP-Server Console\obj\Debug\TCP-Server Console.exe
+\\Mac\Home\Desktop\OneDrive\Frank - PC\6DOF\Programmieren\Projects\TCP-Server Console\TCP-Server Console\obj\Debug\TCP-Server Console.pdb
+D:\OneDrive\Frank - PC\6DOF\Programmieren\Projects\TCP-Server Console\TCP-Server Console\bin\Debug\TCP-Server Console.exe.config
+D:\OneDrive\Frank - PC\6DOF\Programmieren\Projects\TCP-Server Console\TCP-Server Console\bin\Debug\TCP-Server Console.exe
+D:\OneDrive\Frank - PC\6DOF\Programmieren\Projects\TCP-Server Console\TCP-Server Console\bin\Debug\TCP-Server Console.pdb
+D:\OneDrive\Frank - PC\6DOF\Programmieren\Projects\TCP-Server Console\TCP-Server Console\obj\Debug\TCP-Server Console.csprojAssemblyReference.cache
+D:\OneDrive\Frank - PC\6DOF\Programmieren\Projects\TCP-Server Console\TCP-Server Console\obj\Debug\TCP-Server Console.csproj.CoreCompileInputs.cache
+D:\OneDrive\Frank - PC\6DOF\Programmieren\Projects\TCP-Server Console\TCP-Server Console\obj\Debug\TCP-Server Console.exe
+D:\OneDrive\Frank - PC\6DOF\Programmieren\Projects\TCP-Server Console\TCP-Server Console\obj\Debug\TCP-Server Console.pdb
+C:\Users\frank\Desktop\Github\TCP-Server Console\bin\Debug\TCP-Server Console.exe.config
+C:\Users\frank\Desktop\Github\TCP-Server Console\bin\Debug\TCP-Server Console.exe
+C:\Users\frank\Desktop\Github\TCP-Server Console\bin\Debug\TCP-Server Console.pdb
+C:\Users\frank\Desktop\Github\TCP-Server Console\obj\Debug\TCP-Server Console.csprojAssemblyReference.cache
+C:\Users\frank\Desktop\Github\TCP-Server Console\obj\Debug\TCP-Server Console.csproj.CoreCompileInputs.cache
+C:\Users\frank\Desktop\Github\TCP-Server Console\obj\Debug\TCP-Server Console.exe
+C:\Users\frank\Desktop\Github\TCP-Server Console\obj\Debug\TCP-Server Console.pdb
