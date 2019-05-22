@@ -19,3 +19,10 @@ C:\Users\frank\Desktop\Github\TCP-Server Console\obj\Debug\TCP-Server Console.cs
 C:\Users\frank\Desktop\Github\TCP-Server Console\obj\Debug\TCP-Server Console.csproj.CoreCompileInputs.cache
 C:\Users\frank\Desktop\Github\TCP-Server Console\obj\Debug\TCP-Server Console.exe
 C:\Users\frank\Desktop\Github\TCP-Server Console\obj\Debug\TCP-Server Console.pdb
+C:\Users\frank\Documents\GitHub\DCS-Export-Server-Simple\TCP-Server Console\bin\Debug\TCP-Server Console.exe.config
+C:\Users\frank\Documents\GitHub\DCS-Export-Server-Simple\TCP-Server Console\bin\Debug\TCP-Server Console.exe
+C:\Users\frank\Documents\GitHub\DCS-Export-Server-Simple\TCP-Server Console\bin\Debug\TCP-Server Console.pdb
+C:\Users\frank\Documents\GitHub\DCS-Export-Server-Simple\TCP-Server Console\obj\Debug\TCP-Server Console.csprojAssemblyReference.cache
+C:\Users\frank\Documents\GitHub\DCS-Export-Server-Simple\TCP-Server Console\obj\Debug\TCP-Server Console.csproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\GitHub\DCS-Export-Server-Simple\TCP-Server Console\obj\Debug\TCP-Server Console.exe
+C:\Users\frank\Documents\GitHub\DCS-Export-Server-Simple\TCP-Server Console\obj\Debug\TCP-Server Console.pdb

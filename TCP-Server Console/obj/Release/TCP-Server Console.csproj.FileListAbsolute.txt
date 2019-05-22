@@ -4,3 +4,10 @@
 \\Mac\Home\Desktop\OneDrive\Frank - PC\6DOF\Programmieren\Projects\TCP-Server Console\TCP-Server Console\obj\Release\TCP-Server Console.csproj.CoreCompileInputs.cache
 \\Mac\Home\Desktop\OneDrive\Frank - PC\6DOF\Programmieren\Projects\TCP-Server Console\TCP-Server Console\obj\Release\TCP-Server Console.exe
 \\Mac\Home\Desktop\OneDrive\Frank - PC\6DOF\Programmieren\Projects\TCP-Server Console\TCP-Server Console\obj\Release\TCP-Server Console.pdb
+C:\Users\frank\Documents\GitHub\DCS-Export-Server-Simple\TCP-Server Console\bin\Release\TCP-Server Console.exe.config
+C:\Users\frank\Documents\GitHub\DCS-Export-Server-Simple\TCP-Server Console\bin\Release\TCP-Server Console.exe
+C:\Users\frank\Documents\GitHub\DCS-Export-Server-Simple\TCP-Server Console\bin\Release\TCP-Server Console.pdb
+C:\Users\frank\Documents\GitHub\DCS-Export-Server-Simple\TCP-Server Console\obj\Release\TCP-Server Console.csprojAssemblyReference.cache
+C:\Users\frank\Documents\GitHub\DCS-Export-Server-Simple\TCP-Server Console\obj\Release\TCP-Server Console.csproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\GitHub\DCS-Export-Server-Simple\TCP-Server Console\obj\Release\TCP-Server Console.exe
+C:\Users\frank\Documents\GitHub\DCS-Export-Server-Simple\TCP-Server Console\obj\Release\TCP-Server Console.pdb
