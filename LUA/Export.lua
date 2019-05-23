@@ -10,7 +10,6 @@ function LuaExportStart()
 
 	MySocket = socket.try(socket.connect(IPAddress, Port))
 	MySocket:setoption("tcp-nodelay",true) 
-	
 end
 
 function LuaExportBeforeNextFrame()
@@ -21,7 +20,6 @@ function LuaExportAfterNextFrame()
 	local IAS = LoGetIndicatedAirSpeed()
 	
 	socket.try(MySocket:send(string.format("IAS: %.4f \n",IAS)))
-	
 end
 
 function LuaExportStop()
@@ -33,5 +31,4 @@ function LuaExportStop()
 end
 
 function LuaExportActivityNextEvent(t)
-
 end
