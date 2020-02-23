@@ -1,3 +1,6 @@
+--This code exports the height of the aircraft above the terrain to an IP adress.
+--It is being exported at a specified interval. Modify the line 'tNext = tNext + 2.0' according to your needs.
+--Just replace the '2.0' with the time interval in seconds. 
 
 function LuaExportStart()
 
