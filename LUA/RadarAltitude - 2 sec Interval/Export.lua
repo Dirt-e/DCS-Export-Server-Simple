@@ -29,11 +29,12 @@ end
 function LuaExportActivityNextEvent(t)
 
 	local tNext = t 
-
-	local RALT = LoGetAltitudeAboveGroundLevel()
 	
+	--/////////////// your code starts here //////////////////////////
+	local RALT = LoGetAltitudeAboveGroundLevel()
 	socket.try(MySocket:send(string.format("RadAlt [m]: %.4f \n",RALT)))
-
+	--/////////////// your code ends here ////////////////////////////
+	
 	tNext = tNext + 2.0
 	return tNext
 end
