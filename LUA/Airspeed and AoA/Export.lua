@@ -1,6 +1,5 @@
---This code exports the height of the aircraft above the terrain to an IP address.
---It is being exported at a specified interval. Modify the line 'tNext = tNext + 2.0' according to your needs.
---Just replace the '2.0' with the time interval in seconds. 
+
+--This Export.lua illustrates how to export multiple data. In this case IAS (Indicated Airspeed) and AoA (Angle of Attack)
 
 function LuaExportStart()
 
@@ -19,6 +18,12 @@ function LuaExportBeforeNextFrame()
 end
 
 function LuaExportAfterNextFrame()
+
+	--Both data are read:
+	local IAS = LoGetIndicatedAirSpeed()
+	local AoA = LoGetAngleOfAttack();
+	--And then both data are being written into the formatted string:
+	socket.try(MySocket:send(string.format("IAS: %.4f  AoA: %.4f \n",IAS,AoA)))
 end
 
 function LuaExportStop()
@@ -30,14 +35,4 @@ function LuaExportStop()
 end
 
 function LuaExportActivityNextEvent(t)
-
-	local tNext = t 
-	
-	--/////////////// your code starts here //////////////////////////
-	local RALT = LoGetAltitudeAboveGroundLevel()
-	socket.try(MySocket:send(string.format("RadAlt [m]: %.4f \n",RALT)))
-	--/////////////// your code ends here ////////////////////////////
-	
-	tNext = tNext + 2.0
-	return tNext
 end

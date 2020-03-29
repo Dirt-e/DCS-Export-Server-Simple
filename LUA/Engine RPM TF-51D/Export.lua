@@ -1,6 +1,7 @@
---This code exports the height of the aircraft above the terrain to an IP address.
---It is being exported at a specified interval. Modify the line 'tNext = tNext + 2.0' according to your needs.
---Just replace the '2.0' with the time interval in seconds. 
+-- This Export.lua works ONLY for the TF-51D!!!
+-- Other aircraft can be supported by findig the right number to put into "MainPanel:get_argument_value(?)"
+
+MainPanel = GetDevice(0)
 
 function LuaExportStart()
 
@@ -19,6 +20,10 @@ function LuaExportBeforeNextFrame()
 end
 
 function LuaExportAfterNextFrame()
+	
+	local RPM = MainPanel:get_argument_value(23) * 4500
+	
+	socket.try(MySocket:send(string.format("RPM: %.4f \n",RPM)))
 end
 
 function LuaExportStop()
@@ -30,14 +35,4 @@ function LuaExportStop()
 end
 
 function LuaExportActivityNextEvent(t)
-
-	local tNext = t 
-	
-	--/////////////// your code starts here //////////////////////////
-	local RALT = LoGetAltitudeAboveGroundLevel()
-	socket.try(MySocket:send(string.format("RadAlt [m]: %.4f \n",RALT)))
-	--/////////////// your code ends here ////////////////////////////
-	
-	tNext = tNext + 2.0
-	return tNext
 end
